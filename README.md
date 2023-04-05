@@ -1,7 +1,7 @@
 # star_wars
 Analyzing star wars movies data to determine which movie, according to Americans is the best of the franchise
-##star_wars.csv relevant column descriptions
-RespondentID — An anonymized ID for the respondent (person taking the survey)
+## star_wars.csv relevant column descriptions
+|RespondentID — An anonymized ID for the respondent (person taking the survey)
 Gender — the respondent's gender
 Age — the respondent's age
 Household Income — the respondent's income
