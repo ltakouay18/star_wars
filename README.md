@@ -1,6 +1,9 @@
 # star_wars
-Analyzing star wars movies data to determine which movie, according to Americans is the best of the franchise
-## star_wars.csv relevant column descriptions
+
+In this project I am analyzing Star Wars movies data to determine which film, according to Americans is the best of the franchise.
+***
+I will be using star_wars.csv file, but will focus on 8 relevant columns:
+
 * RespondentID — An anonymized ID for the respondent (person taking the survey)
 * Gender — the respondent's gender
 * Age — the respondent's age
